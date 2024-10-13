@@ -36,7 +36,7 @@ The file has all the code that was used for the Excercise 1. This is a Jupiter N
 
 • Numpy (all – total: 15 - max points: 300)
 
-### [*[Laura_A_Moreno_Exercise_1]* ](https://github.com/lamorenorod/ADM-HW1/blob/main/Laura_A_Moreno_Exercise_2.ipynb)
+### [*[Laura_A_Moreno_Exercise_2]* ](https://github.com/lamorenorod/ADM-HW1/blob/main/Laura_A_Moreno_Exercise_2.ipynb)
 The file has all the code that was used for the Excercise 2. This is a Jupiter Notebook to facilitate the way it was being read. It has the subsections, like this:
 
 • Birthday Cake Candles
@@ -48,4 +48,12 @@ The file has all the code that was used for the Excercise 2. This is a Jupiter N
 • Recursive Digit Sum
 
 • Insertion Sort - Part 1
+
 • Insertion Sort - Part 2
+
+### [*[PDF_ADM_HW1_Laura Alejandra Moreno - la_morenorod _ HackerRank.pdf]*](https://github.com/lamorenorod/ADM-HW1/blob/main/PDF_ADM_HW1_Laura%20Alejandra%20Moreno%20-%20la_morenorod%20_%20HackerRank.pdf)
+FThe PDF file contains all the screenshots taken from the HackerRank platform that show all the exercises were submitted successfully.
+
+
+
+### *With those files, you willl be able to check Laura's homwerork*

@@ -56,4 +56,4 @@ The PDF file contains all the screenshots taken from the HackerRank platform tha
 
 
 
-### *With those files, you willl be able to check Laura's homwerork*
+### *With those files, you willl be able to check Laura's homework*

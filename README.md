@@ -7,7 +7,7 @@
 ## Sections
 In this GitHub link, you will find all the documents that will guide you through the results of Homework 1, completed on HackerRank for the class "Algorithmic Methods of Data Mining" (Sc.M. in Data Science) for the academic year 2024–2025.
 
-### *[Laura_A_Moreno_Exercise_1](https://github.com/lamorenorod/ADM-HW1/blob/main/Laura_A_Moreno_Exercise_1%20(1).ipynb)* 
+### [*[Laura_A_Moreno_Exercise_1]*](https://github.com/lamorenorod/ADM-HW1/blob/main/Laura_A_Moreno_Exercise_1%20(1).ipynb)
 The file has all the code that was used for the Excercise 1. This is a Jupiter Notebook to facilitate the way it was being read. It has the subsections, like this:
 
 • Introduction (all – total: 7 - max points: 75)
@@ -36,7 +36,7 @@ The file has all the code that was used for the Excercise 1. This is a Jupiter N
 
 • Numpy (all – total: 15 - max points: 300)
 
-### [*[Laura_A_Moreno_Exercise_2]* ](https://github.com/lamorenorod/ADM-HW1/blob/main/Laura_A_Moreno_Exercise_2.ipynb)
+### [*[Laura_A_Moreno_Exercise_2]*](https://github.com/lamorenorod/ADM-HW1/blob/main/Laura_A_Moreno_Exercise_2.ipynb)
 The file has all the code that was used for the Excercise 2. This is a Jupiter Notebook to facilitate the way it was being read. It has the subsections, like this:
 
 • Birthday Cake Candles

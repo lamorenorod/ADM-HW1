@@ -52,7 +52,7 @@ The file has all the code that was used for the Excercise 2. This is a Jupiter N
 • Insertion Sort - Part 2
 
 ### [*[PDF_ADM_HW1_Laura Alejandra Moreno - la_morenorod _ HackerRank.pdf]*](https://github.com/lamorenorod/ADM-HW1/blob/main/PDF_ADM_HW1_Laura%20Alejandra%20Moreno%20-%20la_morenorod%20_%20HackerRank.pdf)
-FThe PDF file contains all the screenshots taken from the HackerRank platform that show all the exercises were submitted successfully.
+The PDF file contains all the screenshots taken from the HackerRank platform that show all the exercises were submitted successfully.
 
 
 
